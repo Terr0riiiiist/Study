@@ -14,6 +14,7 @@ package Algorithm_Practise;
 输入：nums = [0,1,2,2,3,0,4,2]　val = 2
 
 输出：nums = [0,1,4,0,3] 剩余5个元素 */
+
 public class Practise_1 {
     static void main() {
         int nums[] = {1, 2, 2, 3, 4, 5, 6};
